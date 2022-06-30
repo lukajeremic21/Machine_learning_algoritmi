@@ -1,0 +1,15 @@
+﻿Starost,Dijagnoza,Astigmatizam,Vlažnost oka,Sočiva
+mlad <39,Kratkovidost,Da,Smanjena,Nikakva
+mlad <39,Kratkovidost,Da,Normalna,Meka
+mlad <39,Kratkovidost,Ne,Smanjena,Nikakva
+mlad <39,Dalekovidost,Ne,Normalna,Tvrda
+mlad <39,Dalekovidost,Da,Smanjena,Nikakva
+srednje godine 40-50,Dalekovidost,Da,Normalna,Meka
+srednje godine 40-50,Dalekovidost,Da,Smanjena,Nikakva
+srednje godine 40-50,Kratkovidost,Ne,Normalna,Tvrda
+srednje godine 40-50,Kratkovidost,Da,Smanjena,Nikakva
+preko 50,Kratkovidost,Da,Normalna,Meka
+preko 50,Dalekovidost,Ne,Smanjena,Nikakva
+preko 50,Dalekovidost,Ne,Normalna,Tvrda
+preko 50,Dalekovidost,Da,Smanjena,Nikakva
+preko 50,Dalekovidost,Da,Normalna,Meka
